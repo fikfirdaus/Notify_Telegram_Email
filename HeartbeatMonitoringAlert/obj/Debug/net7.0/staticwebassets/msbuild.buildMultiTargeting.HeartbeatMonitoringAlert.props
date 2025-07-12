@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HeartbeatMonitoringAlert.props" />
+</Project>

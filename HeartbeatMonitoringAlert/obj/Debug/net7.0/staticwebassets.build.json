@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lfm5LO3tTXtLUI3JCER+0kIXISnkjIt5dBZFPu7UGGY=",
+  "Source": "HeartbeatMonitoringAlert",
+  "BasePath": "_content/HeartbeatMonitoringAlert",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
